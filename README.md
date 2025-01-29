@@ -1,3 +1,26 @@
+# Season of AI - Season 3 - Best of AI @ Ignite (Jan to Mar, 2025)
+
+[![Season of AI](assets/season-of-ai-banner-v1.png)](https://aka.ms/registerSeasonofAI)
+
+[Register](https://aka.ms/RegisterSeasonofAI) your Season of AI event and be eligible to receive a free gift. Be the first 200 speakers to confirm a scheduled event (100 in person and 100 virtual events). Limit one per speaker/user group. Terms apply, please review the [Terms and Conditions](https://github.com/microsoft/community-content/wiki/Season-of-AI-Terms-and-Conditions).
+
+<!---#### [> See list of events here](https://github.com/microsoft/community-content/wiki/Season-of-AI-Events) --->
+
+### How to participate:
+
+1.	**Schedule** 📆 your Microsoft AI - Best of AI @ Ignite talk to occur between **January 1 and March 31, 2025** Make sure you are listed as the speaker for your event.
+   
+	**Register** to promote your event using your URL here: https://aka.ms/RegisterSeasonofAI
+   - The free gift offer ends on March 14, 2025 at 9 AM Pacific or while supplies last (whichever comes first).
+   - Within 2-5 business days of submitting your registration form, you will receive an email from Azure-Tech-Groups azure-tech-groups@microsoft.com to let you know if you are eligible. 
+2.	**Prepare** and deliver your talk 🗣️
+-	Find [prepared Microsoft AI content-in-a-box](https://github.com/microsoft/community-content/tree/main/SeasonOfAI-S3-BestOfIgnite) here on GitHub.
+-	Engage your audience and share your insights on the Microsoft AI topic you selected.
+3. **Feedback** Please gather attendee feedback after the event by sharing the post-event survey via a QR code or aka link https://aka.ms/AttendeesurveySeasonofAI that is included in the presentation materials.
+
+Any questions, email Azure-Tech-Groups at azure-tech-groups@microsoft.com. For more info, please see [FAQs](https://github.com/microsoft/community-content/wiki/Season-of-AI:-FAQs).
+
+
 # Community Content Repo
 ### Prepared "content-in-a-box" from Microsoft for user groups, meetups, and events
 
@@ -6,27 +29,6 @@
 - **WHO**: You! 🎉 This content is for anyone that wants to deliver a talk.
 - **WHEN**: Content in this repo will be updated quarterly. 📆 Check back often for new content-in-a-box resources. Old topics will be archived and new topics will be added so there's always something fresh to share with your community.
 - **HOW**: Simply clone or fork this repo and practice the content. 🗣️ Most content-in-a-box sessions include slides, supporting sample code (which may be linked in an external repository), and additional guidance for delivering the talk (sometimes including a video of the session being delivered so you can see an example in action). Some slides may need updates (like your bio); others are ready to go. You can use everything as prepared, or if you have your own style or time constraints, you can remix to fit your situation. Content is designed to fit in a 30 to 45 minute session (leaving time for Q&A).
-
-# "Season of AI" (May to August, 2024)
-<!-- Add link to registration form -->
-[![Season of AI](assets/season-of-ai-banner-v1.png)](https://aka.ms/registerSeasonofAI)
-
-Microsoft wants to thank MVPs, user group leaders, Student Ambassadors, India Developer Community enablers, and influencers in the developer community for helping us pilot Microsoft AI content-in-a-box and its use in meetups and user groups.  
-
-The opportunity for the free gift offer ended June 30th and you can still register your event for promotion by Microsoft. 
-
-#### [> See list of events here](https://github.com/microsoft/community-content/wiki/Season-of-AI-Events)
-
-### How to participate:
-
-1.	**Schedule** 📆 your Microsoft AI talk to occur by **August 31, 2024** Make sure you are listed as the speaker for your event.
-2.	**Register** to promote your event using your URL here: https://aka.ms/registerSeasonofAI
-3.	**Prepare** and deliver your talk 🗣️
--	Find [prepared Microsoft AI content-in-a-box](https://github.com/microsoft/community-content/tree/main/SeasonOfAI) here on GitHub.
--	Engage your audience and share your insights on the Microsoft AI topic you selected.
--	After the event, encourage attendees to participate in a post-event survey via a QR code that is included in the presentation materials.
-
-Any questions, email Azure-Tech-Groups at azure-tech-groups@microsoft.com. For more info, please see [FAQs](https://github.com/microsoft/community-content/wiki/Season-of-AI:-FAQs).
 
 # Contributing
 

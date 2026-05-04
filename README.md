@@ -57,13 +57,13 @@ Food & Beverage (F&B) and/or venue support may be requested whether you are host
 
 Organizers are responsible for paying **all approved expenses up front** and will be reimbursed **after the event**. Please ensure you have received **prior approval** before making any purchases, as Microsoft will not reimburse expenses that were not approved in advance.
 
-**Receipts are required for all reimbursement requests.**
+**Receipts are required for all reimbursement requests.** [Microsoft Build //localhost reimbursement details](https://plainsightevents.com/microsoftbuild)
 
 ---
 
 ### Reimbursement Process
 
-Once your event support request is reviewed and approved through the survey—and the event is completed within the approved budget—**PlainSight**, a Microsoft vendor, will process reimbursement based on the documentation you provide.
+Once your event support request is reviewed and approved through the survey—and the event is completed within the approved budget—**PlainSight**, a Microsoft vendor, will process reimbursement based on the documentation you provide. [Microsoft Build //localhost reimbursement details](https://plainsightevents.com/microsoftbuild)
 
 You will receive a confirmation email containing:
 - Your approved budget amount  

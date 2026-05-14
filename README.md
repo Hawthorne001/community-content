@@ -6,13 +6,13 @@
 
 Microsoft Build //localhost is a global series of **community‑led, hands‑on, in‑person learning events** designed to extend Microsoft Build content directly into local technical communities.
 
-Between **June 9–26, 2026**, MVPs and Azure Tech Groups leaders can host in‑person events with support from Microsoft.
+Between **June 4–26, 2026**, MVPs and Azure Tech Groups leaders can host in‑person events with support from Microsoft.
 
 ---
 
 ## Event Overview
 
-- **Date range:** June 9–26, 2026  
+- **Date range:** June 4–26, 2026  
 - **Format:** In‑person only  
 - **Target audience:** Developers  
 - **Minimum attendance:** 30 participants  

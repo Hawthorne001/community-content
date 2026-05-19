@@ -76,6 +76,7 @@ You will receive a confirmation email containing:
 To avoid delays in processing by PlainSight, please submit the following:
 
 - Receipts for approved expenses  
+- Final number of in person attendees
 - Event report or summary  
 - Event photos and/or evidence of attendance  
 

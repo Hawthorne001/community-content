@@ -84,13 +84,9 @@ Please ensure all materials are **accurate and complete** prior to submission.
 
 ---
 
-## Apply to Host
+## Marketing Toolkist
 
-Once your in‑person event plan is ready, please submit the application:
-
-[Apply to Host a Microsoft Build //localhost Event](https://aka.ms/MicrosoftBuild-localhost-application)
-
-You can expect a follow‑up within **7 business days** after submission.
+Check out the [//localhost Marketing Toolkit](https://aka.ms/MicrosoftBuild-localhost-marketingtoolkit)
 
 ---
 

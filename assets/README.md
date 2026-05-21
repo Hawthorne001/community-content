@@ -16,7 +16,7 @@ When promoting your event on social channels, use the official hashtag:
 ## 📥 Getting Started
 
 1. Download the PowerPoint event template:  
-   [Download event template](https://microsoft.sharepoint.com/teams/EventsCreativeResources/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FEventsCreativeResources%2FShared%20Documents%2FMicrosoft%20Build%2FMarketing%20materials%2FPowerPoint/Build_2026_16-9%20Event-template_v04.potx&parent=%2Fteams%2FEventsCreativeResources%2FShared%20Documents)
+   [Download event template above](https://github.com/microsoft/community-content/blob/main/assets/Build_2026_16-9%20Event-template_v04.potx)
 
 2. Customize the template with your:
    - Event date  

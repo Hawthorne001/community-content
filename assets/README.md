@@ -1,7 +1,7 @@
 
 # 📣 Build //localhost Marketing Toolkit
 
-This marketing toolkit provides everything you need to successfully promote your Build //**localhost** event. All materials are ready to customize with your event details.
+This marketing toolkit provides everything you need to successfully promote your **Build //localhost** event. All materials are ready to customize with your event details.
 
 ---
 

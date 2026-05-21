@@ -84,9 +84,9 @@ Please ensure all materials are **accurate and complete** prior to submission.
 
 ---
 
-## Marketing Toolkist
+## [Marketing Toolkit](https://aka.ms/MicrosoftBuild-localhost-marketingtoolkit)
 
-Check out the [//localhost Marketing Toolkit](https://aka.ms/MicrosoftBuild-localhost-marketingtoolkit)
+This marketing toolkit provides everything you need to successfully promote your Build //localhost event. All materials are ready to customize with your event details. [Marketing Toolkit](https://aka.ms/MicrosoftBuild-localhost-marketingtoolkit)
 
 ---
 

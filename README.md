@@ -23,11 +23,11 @@ Between **June 4–26, 2026**, MVPs and Azure Tech Groups leaders can host in‑
 
 [View Build //localhost Content Catalog](https://aka.ms/MicrosoftBuild-localhosts-Content)
 
-Microsoft Build repositories—including demos, presentation decks, and workshop materials—will be available beginning **June 2, 2026**.
+Microsoft Build repositories—including demos, presentation decks, and workshop materials—will be available beginning **June 4, 2026**.
 
 To help you shape your event agenda, the catalog includes:
 - **16 total sessions**
-  - **4 hands‑on labs** (approximately 75 minutes each)
+  - **3 hands‑on labs** (approximately 75 minutes each)
   - **12 breakout sessions** (45 minutes each)
 
 This catalog is provided to support your planning efforts. Hosts are expected to submit a **copy of their final event agenda** as part of their post‑event recap through Microsoft’s vendor, **PlainSight**.

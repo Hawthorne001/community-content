@@ -21,7 +21,7 @@ Between **June 4–26, 2026**, MVPs and Azure Tech Groups leaders can host in‑
 
 ## Content Details
 
-[View Build //localhost Content Catalog](https://aka.ms/MicrosoftBuild-localhosts-Content)
+[View Build //localhost Content Catalog](https://aka.ms/MicrosoftBuild-localhost-content)
 
 Microsoft Build repositories—including demos, presentation decks, and workshop materials—will be available beginning **June 4, 2026**.
 
